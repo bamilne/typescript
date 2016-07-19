@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../ts/vendingmachine.ts","../ts/bootstrapper.ts"],"names":["VendingMachine","VendingMachine.constructor"],"mappings":"AAAA;IAAAA;IAEAC,CAACA;IAADD,qBAACA;AAADA,CAACA,AAFD,IAEC;ACFD,0CAA0C;AAE1C,IAAI,OAAO,GAAG,IAAI,cAAc,EAAE,CAAC"}
