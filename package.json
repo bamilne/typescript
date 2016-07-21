@@ -19,6 +19,6 @@
 ,
 "devDependencies": {
   "requirejs": "*",
-  "knockout": "*",
+  "knockout": "*"
 }
 }
